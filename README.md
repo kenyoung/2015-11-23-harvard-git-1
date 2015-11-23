@@ -6,3 +6,5 @@ Another line
 Link to the etherpad: 
 
 Commits via github
+
+Just to create a conflict and test
