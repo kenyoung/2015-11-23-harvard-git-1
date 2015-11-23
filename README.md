@@ -13,3 +13,19 @@ Just to create a conflict and test
 
 git remote add <url>
 
+# Header 1
+## Chapter 2
+### Capitulo 3
+#### Capitol 4
+##### Capitulo 5
+###### Capitulo 6
+
+# Bullet points (unorderd lists)
+Make sure they begin and end with a new line
+
+- bullet 1
+- bullet 2
+
+1. Item 1
+2. Item 2
+3. Item 3
