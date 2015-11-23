@@ -4,3 +4,5 @@ The website for today's lesson can be found here: xxxx
 Another line
 
 Link to the etherpad: 
+
+Commits via github
