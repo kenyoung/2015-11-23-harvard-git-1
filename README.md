@@ -6,3 +6,6 @@ Another line
 Link to the etherpad: 
 
 Commits via github
+
+Yes another change (this time in local computer)
+
